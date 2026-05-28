@@ -1,0 +1,10 @@
+{
+  "id": "default-folder-toggle",
+  "name": "Default Folder Toggle",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Automatically manages folder expand/collapse state in the File Explorer via YAML frontmatter (folderStatus) in matching folder-notes, with settings-based overrides.",
+  "author": "Thunder",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
